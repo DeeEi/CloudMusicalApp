@@ -20,5 +20,5 @@ A music website APP
 + 💾Distributed storage
 + 🛒Data caching
 
-Environment Sponsorer
+Environment Sponsor
 + 🎞[Ekire](https://ekire.net/)
