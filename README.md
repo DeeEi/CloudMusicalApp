@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/FrameWork-Django1.11-green.svg">
 </p>
 
-A music website APP based on Python3.8+django1.11.
+A music website APP
 + 🔍Support music, video search
 + 🎶Random recommendation
 + 📁Music classification
