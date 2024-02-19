@@ -9,7 +9,7 @@
 </p>
 
 A music website APP
-+ 🔍Support music, video search
++ 🔍Support music, video search, Cloudease Public API
 + 🎶Random recommendation
 + 📁Music classification
 + 💬Support comments and collections
