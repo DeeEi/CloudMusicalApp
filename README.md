@@ -19,3 +19,6 @@ A music website APP
 + 📣Site news
 + 💾Distributed storage
 + 🛒Data caching
+
+Environment Sponsorer
++ 🎞[Video playback](https://ekire.net/)Ekire
