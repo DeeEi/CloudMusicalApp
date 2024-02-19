@@ -1,4 +1,5 @@
 <h1 align="center">CloudMusicalApp</h1>
+<h2 align="center">Sponsored by Ekire</h2>
 <p align="center">
 <img src="https://s2.ax1x.com/2019/04/02/AybNfe.png" alt="AybNfe.png" border="0" />
 </p>
