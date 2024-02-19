@@ -21,4 +21,4 @@ A music website APP
 + 🛒Data caching
 
 Environment Sponsorer
-+ 🎞[Video playback](https://ekire.net/)Ekire
++ 🎞[Ekire](https://ekire.net/)
