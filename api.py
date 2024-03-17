@@ -8,7 +8,7 @@ from encrypt import encrypted_request
 import random
 from hashlib import md5
 
-DEFAULT_TIMEOUT = 10
+DEFAULT_TIMEOUT = 20
 
 BASE_URL = "https://music.163.com"
 
