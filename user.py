@@ -6,7 +6,7 @@ import re
 from api import NetEase
 import os
 import requests
-
+import json
 
 class User(object):
     def __init__(self):
